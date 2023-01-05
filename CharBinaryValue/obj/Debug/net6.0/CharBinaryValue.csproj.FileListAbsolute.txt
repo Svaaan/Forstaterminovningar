@@ -1,0 +1,15 @@
+C:\Users\danie\Documents\suvnet22\Forstaterminovningar\charbinaryvalue\bin\Debug\net6.0\CharBinaryValue.exe
+C:\Users\danie\Documents\suvnet22\Forstaterminovningar\charbinaryvalue\bin\Debug\net6.0\CharBinaryValue.deps.json
+C:\Users\danie\Documents\suvnet22\Forstaterminovningar\charbinaryvalue\bin\Debug\net6.0\CharBinaryValue.runtimeconfig.json
+C:\Users\danie\Documents\suvnet22\Forstaterminovningar\charbinaryvalue\bin\Debug\net6.0\CharBinaryValue.dll
+C:\Users\danie\Documents\suvnet22\Forstaterminovningar\charbinaryvalue\bin\Debug\net6.0\CharBinaryValue.pdb
+C:\Users\danie\Documents\suvnet22\Forstaterminovningar\charbinaryvalue\obj\Debug\net6.0\CharBinaryValue.csproj.AssemblyReference.cache
+C:\Users\danie\Documents\suvnet22\Forstaterminovningar\charbinaryvalue\obj\Debug\net6.0\CharBinaryValue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\Documents\suvnet22\Forstaterminovningar\charbinaryvalue\obj\Debug\net6.0\CharBinaryValue.AssemblyInfoInputs.cache
+C:\Users\danie\Documents\suvnet22\Forstaterminovningar\charbinaryvalue\obj\Debug\net6.0\CharBinaryValue.AssemblyInfo.cs
+C:\Users\danie\Documents\suvnet22\Forstaterminovningar\charbinaryvalue\obj\Debug\net6.0\CharBinaryValue.csproj.CoreCompileInputs.cache
+C:\Users\danie\Documents\suvnet22\Forstaterminovningar\charbinaryvalue\obj\Debug\net6.0\CharBinaryValue.dll
+C:\Users\danie\Documents\suvnet22\Forstaterminovningar\charbinaryvalue\obj\Debug\net6.0\refint\CharBinaryValue.dll
+C:\Users\danie\Documents\suvnet22\Forstaterminovningar\charbinaryvalue\obj\Debug\net6.0\CharBinaryValue.pdb
+C:\Users\danie\Documents\suvnet22\Forstaterminovningar\charbinaryvalue\obj\Debug\net6.0\CharBinaryValue.genruntimeconfig.cache
+C:\Users\danie\Documents\suvnet22\Forstaterminovningar\charbinaryvalue\obj\Debug\net6.0\ref\CharBinaryValue.dll

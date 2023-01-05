@@ -1,0 +1,15 @@
+C:\Users\danie\Documents\suvnet22\Forstaterminovningar\forloops\bin\Debug\net6.0\forloops.exe
+C:\Users\danie\Documents\suvnet22\Forstaterminovningar\forloops\bin\Debug\net6.0\forloops.deps.json
+C:\Users\danie\Documents\suvnet22\Forstaterminovningar\forloops\bin\Debug\net6.0\forloops.runtimeconfig.json
+C:\Users\danie\Documents\suvnet22\Forstaterminovningar\forloops\bin\Debug\net6.0\forloops.dll
+C:\Users\danie\Documents\suvnet22\Forstaterminovningar\forloops\bin\Debug\net6.0\forloops.pdb
+C:\Users\danie\Documents\suvnet22\Forstaterminovningar\forloops\obj\Debug\net6.0\forloops.csproj.AssemblyReference.cache
+C:\Users\danie\Documents\suvnet22\Forstaterminovningar\forloops\obj\Debug\net6.0\forloops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\Documents\suvnet22\Forstaterminovningar\forloops\obj\Debug\net6.0\forloops.AssemblyInfoInputs.cache
+C:\Users\danie\Documents\suvnet22\Forstaterminovningar\forloops\obj\Debug\net6.0\forloops.AssemblyInfo.cs
+C:\Users\danie\Documents\suvnet22\Forstaterminovningar\forloops\obj\Debug\net6.0\forloops.csproj.CoreCompileInputs.cache
+C:\Users\danie\Documents\suvnet22\Forstaterminovningar\forloops\obj\Debug\net6.0\forloops.dll
+C:\Users\danie\Documents\suvnet22\Forstaterminovningar\forloops\obj\Debug\net6.0\refint\forloops.dll
+C:\Users\danie\Documents\suvnet22\Forstaterminovningar\forloops\obj\Debug\net6.0\forloops.pdb
+C:\Users\danie\Documents\suvnet22\Forstaterminovningar\forloops\obj\Debug\net6.0\forloops.genruntimeconfig.cache
+C:\Users\danie\Documents\suvnet22\Forstaterminovningar\forloops\obj\Debug\net6.0\ref\forloops.dll

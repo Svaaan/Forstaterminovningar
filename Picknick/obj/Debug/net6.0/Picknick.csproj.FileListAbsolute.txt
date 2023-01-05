@@ -1,0 +1,15 @@
+C:\Users\danie\Documents\suvnet22\forstaterminovningar\Picknick\bin\Debug\net6.0\Picknick.exe
+C:\Users\danie\Documents\suvnet22\forstaterminovningar\Picknick\bin\Debug\net6.0\Picknick.deps.json
+C:\Users\danie\Documents\suvnet22\forstaterminovningar\Picknick\bin\Debug\net6.0\Picknick.runtimeconfig.json
+C:\Users\danie\Documents\suvnet22\forstaterminovningar\Picknick\bin\Debug\net6.0\Picknick.dll
+C:\Users\danie\Documents\suvnet22\forstaterminovningar\Picknick\bin\Debug\net6.0\Picknick.pdb
+C:\Users\danie\Documents\suvnet22\forstaterminovningar\Picknick\obj\Debug\net6.0\Picknick.csproj.AssemblyReference.cache
+C:\Users\danie\Documents\suvnet22\forstaterminovningar\Picknick\obj\Debug\net6.0\Picknick.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\Documents\suvnet22\forstaterminovningar\Picknick\obj\Debug\net6.0\Picknick.AssemblyInfoInputs.cache
+C:\Users\danie\Documents\suvnet22\forstaterminovningar\Picknick\obj\Debug\net6.0\Picknick.AssemblyInfo.cs
+C:\Users\danie\Documents\suvnet22\forstaterminovningar\Picknick\obj\Debug\net6.0\Picknick.csproj.CoreCompileInputs.cache
+C:\Users\danie\Documents\suvnet22\forstaterminovningar\Picknick\obj\Debug\net6.0\Picknick.dll
+C:\Users\danie\Documents\suvnet22\forstaterminovningar\Picknick\obj\Debug\net6.0\refint\Picknick.dll
+C:\Users\danie\Documents\suvnet22\forstaterminovningar\Picknick\obj\Debug\net6.0\Picknick.pdb
+C:\Users\danie\Documents\suvnet22\forstaterminovningar\Picknick\obj\Debug\net6.0\Picknick.genruntimeconfig.cache
+C:\Users\danie\Documents\suvnet22\forstaterminovningar\Picknick\obj\Debug\net6.0\ref\Picknick.dll

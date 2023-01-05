@@ -1,0 +1,15 @@
+C:\Users\danie\Documents\suvnet22\Forstaterminovningar\adressboken\obj\Debug\net6.0\adressboken.csproj.AssemblyReference.cache
+C:\Users\danie\Documents\suvnet22\Forstaterminovningar\adressboken\obj\Debug\net6.0\adressboken.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\Documents\suvnet22\Forstaterminovningar\adressboken\obj\Debug\net6.0\adressboken.AssemblyInfoInputs.cache
+C:\Users\danie\Documents\suvnet22\Forstaterminovningar\adressboken\obj\Debug\net6.0\adressboken.AssemblyInfo.cs
+C:\Users\danie\Documents\suvnet22\Forstaterminovningar\adressboken\obj\Debug\net6.0\adressboken.csproj.CoreCompileInputs.cache
+C:\Users\danie\Documents\suvnet22\Forstaterminovningar\adressboken\bin\Debug\net6.0\adressboken.exe
+C:\Users\danie\Documents\suvnet22\Forstaterminovningar\adressboken\bin\Debug\net6.0\adressboken.deps.json
+C:\Users\danie\Documents\suvnet22\Forstaterminovningar\adressboken\bin\Debug\net6.0\adressboken.runtimeconfig.json
+C:\Users\danie\Documents\suvnet22\Forstaterminovningar\adressboken\bin\Debug\net6.0\adressboken.dll
+C:\Users\danie\Documents\suvnet22\Forstaterminovningar\adressboken\bin\Debug\net6.0\adressboken.pdb
+C:\Users\danie\Documents\suvnet22\Forstaterminovningar\adressboken\obj\Debug\net6.0\adressboken.dll
+C:\Users\danie\Documents\suvnet22\Forstaterminovningar\adressboken\obj\Debug\net6.0\refint\adressboken.dll
+C:\Users\danie\Documents\suvnet22\Forstaterminovningar\adressboken\obj\Debug\net6.0\adressboken.pdb
+C:\Users\danie\Documents\suvnet22\Forstaterminovningar\adressboken\obj\Debug\net6.0\adressboken.genruntimeconfig.cache
+C:\Users\danie\Documents\suvnet22\Forstaterminovningar\adressboken\obj\Debug\net6.0\ref\adressboken.dll

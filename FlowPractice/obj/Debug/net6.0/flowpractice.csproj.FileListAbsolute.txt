@@ -1,0 +1,15 @@
+C:\Users\danie\Documents\suvnet22\Forstaterminovningar\flowpractice\obj\Debug\net6.0\flowpractice.csproj.AssemblyReference.cache
+C:\Users\danie\Documents\suvnet22\Forstaterminovningar\flowpractice\obj\Debug\net6.0\flowpractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\Documents\suvnet22\Forstaterminovningar\flowpractice\obj\Debug\net6.0\flowpractice.AssemblyInfoInputs.cache
+C:\Users\danie\Documents\suvnet22\Forstaterminovningar\flowpractice\obj\Debug\net6.0\flowpractice.AssemblyInfo.cs
+C:\Users\danie\Documents\suvnet22\Forstaterminovningar\flowpractice\obj\Debug\net6.0\flowpractice.csproj.CoreCompileInputs.cache
+C:\Users\danie\Documents\suvnet22\Forstaterminovningar\flowpractice\bin\Debug\net6.0\flowpractice.exe
+C:\Users\danie\Documents\suvnet22\Forstaterminovningar\flowpractice\bin\Debug\net6.0\flowpractice.deps.json
+C:\Users\danie\Documents\suvnet22\Forstaterminovningar\flowpractice\bin\Debug\net6.0\flowpractice.runtimeconfig.json
+C:\Users\danie\Documents\suvnet22\Forstaterminovningar\flowpractice\bin\Debug\net6.0\flowpractice.dll
+C:\Users\danie\Documents\suvnet22\Forstaterminovningar\flowpractice\bin\Debug\net6.0\flowpractice.pdb
+C:\Users\danie\Documents\suvnet22\Forstaterminovningar\flowpractice\obj\Debug\net6.0\flowpractice.dll
+C:\Users\danie\Documents\suvnet22\Forstaterminovningar\flowpractice\obj\Debug\net6.0\refint\flowpractice.dll
+C:\Users\danie\Documents\suvnet22\Forstaterminovningar\flowpractice\obj\Debug\net6.0\flowpractice.pdb
+C:\Users\danie\Documents\suvnet22\Forstaterminovningar\flowpractice\obj\Debug\net6.0\flowpractice.genruntimeconfig.cache
+C:\Users\danie\Documents\suvnet22\Forstaterminovningar\flowpractice\obj\Debug\net6.0\ref\flowpractice.dll

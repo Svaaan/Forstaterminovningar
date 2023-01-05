@@ -1,0 +1,15 @@
+C:\Users\danie\Documents\suvnet22\Forstaterminovningar\gradeprogram\bin\Debug\net6.0\gradeprogram.exe
+C:\Users\danie\Documents\suvnet22\Forstaterminovningar\gradeprogram\bin\Debug\net6.0\gradeprogram.deps.json
+C:\Users\danie\Documents\suvnet22\Forstaterminovningar\gradeprogram\bin\Debug\net6.0\gradeprogram.runtimeconfig.json
+C:\Users\danie\Documents\suvnet22\Forstaterminovningar\gradeprogram\bin\Debug\net6.0\gradeprogram.dll
+C:\Users\danie\Documents\suvnet22\Forstaterminovningar\gradeprogram\bin\Debug\net6.0\gradeprogram.pdb
+C:\Users\danie\Documents\suvnet22\Forstaterminovningar\gradeprogram\obj\Debug\net6.0\gradeprogram.csproj.AssemblyReference.cache
+C:\Users\danie\Documents\suvnet22\Forstaterminovningar\gradeprogram\obj\Debug\net6.0\gradeprogram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\Documents\suvnet22\Forstaterminovningar\gradeprogram\obj\Debug\net6.0\gradeprogram.AssemblyInfoInputs.cache
+C:\Users\danie\Documents\suvnet22\Forstaterminovningar\gradeprogram\obj\Debug\net6.0\gradeprogram.AssemblyInfo.cs
+C:\Users\danie\Documents\suvnet22\Forstaterminovningar\gradeprogram\obj\Debug\net6.0\gradeprogram.csproj.CoreCompileInputs.cache
+C:\Users\danie\Documents\suvnet22\Forstaterminovningar\gradeprogram\obj\Debug\net6.0\gradeprogram.dll
+C:\Users\danie\Documents\suvnet22\Forstaterminovningar\gradeprogram\obj\Debug\net6.0\refint\gradeprogram.dll
+C:\Users\danie\Documents\suvnet22\Forstaterminovningar\gradeprogram\obj\Debug\net6.0\gradeprogram.pdb
+C:\Users\danie\Documents\suvnet22\Forstaterminovningar\gradeprogram\obj\Debug\net6.0\gradeprogram.genruntimeconfig.cache
+C:\Users\danie\Documents\suvnet22\Forstaterminovningar\gradeprogram\obj\Debug\net6.0\ref\gradeprogram.dll

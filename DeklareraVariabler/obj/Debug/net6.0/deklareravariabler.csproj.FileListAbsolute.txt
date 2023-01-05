@@ -1,0 +1,15 @@
+C:\Users\danie\Documents\suvnet22\Forstaterminovningar\deklareravariabler\bin\Debug\net6.0\deklareravariabler.exe
+C:\Users\danie\Documents\suvnet22\Forstaterminovningar\deklareravariabler\bin\Debug\net6.0\deklareravariabler.deps.json
+C:\Users\danie\Documents\suvnet22\Forstaterminovningar\deklareravariabler\bin\Debug\net6.0\deklareravariabler.runtimeconfig.json
+C:\Users\danie\Documents\suvnet22\Forstaterminovningar\deklareravariabler\bin\Debug\net6.0\deklareravariabler.dll
+C:\Users\danie\Documents\suvnet22\Forstaterminovningar\deklareravariabler\bin\Debug\net6.0\deklareravariabler.pdb
+C:\Users\danie\Documents\suvnet22\Forstaterminovningar\deklareravariabler\obj\Debug\net6.0\deklareravariabler.csproj.AssemblyReference.cache
+C:\Users\danie\Documents\suvnet22\Forstaterminovningar\deklareravariabler\obj\Debug\net6.0\deklareravariabler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\Documents\suvnet22\Forstaterminovningar\deklareravariabler\obj\Debug\net6.0\deklareravariabler.AssemblyInfoInputs.cache
+C:\Users\danie\Documents\suvnet22\Forstaterminovningar\deklareravariabler\obj\Debug\net6.0\deklareravariabler.AssemblyInfo.cs
+C:\Users\danie\Documents\suvnet22\Forstaterminovningar\deklareravariabler\obj\Debug\net6.0\deklareravariabler.csproj.CoreCompileInputs.cache
+C:\Users\danie\Documents\suvnet22\Forstaterminovningar\deklareravariabler\obj\Debug\net6.0\deklareravariabler.dll
+C:\Users\danie\Documents\suvnet22\Forstaterminovningar\deklareravariabler\obj\Debug\net6.0\refint\deklareravariabler.dll
+C:\Users\danie\Documents\suvnet22\Forstaterminovningar\deklareravariabler\obj\Debug\net6.0\deklareravariabler.pdb
+C:\Users\danie\Documents\suvnet22\Forstaterminovningar\deklareravariabler\obj\Debug\net6.0\deklareravariabler.genruntimeconfig.cache
+C:\Users\danie\Documents\suvnet22\Forstaterminovningar\deklareravariabler\obj\Debug\net6.0\ref\deklareravariabler.dll

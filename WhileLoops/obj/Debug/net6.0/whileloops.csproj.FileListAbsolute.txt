@@ -1,0 +1,15 @@
+C:\Users\danie\Documents\suvnet22\Forstaterminovningar\whileloops\bin\Debug\net6.0\whileloops.exe
+C:\Users\danie\Documents\suvnet22\Forstaterminovningar\whileloops\bin\Debug\net6.0\whileloops.deps.json
+C:\Users\danie\Documents\suvnet22\Forstaterminovningar\whileloops\bin\Debug\net6.0\whileloops.runtimeconfig.json
+C:\Users\danie\Documents\suvnet22\Forstaterminovningar\whileloops\bin\Debug\net6.0\whileloops.dll
+C:\Users\danie\Documents\suvnet22\Forstaterminovningar\whileloops\bin\Debug\net6.0\whileloops.pdb
+C:\Users\danie\Documents\suvnet22\Forstaterminovningar\whileloops\obj\Debug\net6.0\whileloops.csproj.AssemblyReference.cache
+C:\Users\danie\Documents\suvnet22\Forstaterminovningar\whileloops\obj\Debug\net6.0\whileloops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\Documents\suvnet22\Forstaterminovningar\whileloops\obj\Debug\net6.0\whileloops.AssemblyInfoInputs.cache
+C:\Users\danie\Documents\suvnet22\Forstaterminovningar\whileloops\obj\Debug\net6.0\whileloops.AssemblyInfo.cs
+C:\Users\danie\Documents\suvnet22\Forstaterminovningar\whileloops\obj\Debug\net6.0\whileloops.csproj.CoreCompileInputs.cache
+C:\Users\danie\Documents\suvnet22\Forstaterminovningar\whileloops\obj\Debug\net6.0\whileloops.dll
+C:\Users\danie\Documents\suvnet22\Forstaterminovningar\whileloops\obj\Debug\net6.0\refint\whileloops.dll
+C:\Users\danie\Documents\suvnet22\Forstaterminovningar\whileloops\obj\Debug\net6.0\whileloops.pdb
+C:\Users\danie\Documents\suvnet22\Forstaterminovningar\whileloops\obj\Debug\net6.0\whileloops.genruntimeconfig.cache
+C:\Users\danie\Documents\suvnet22\Forstaterminovningar\whileloops\obj\Debug\net6.0\ref\whileloops.dll

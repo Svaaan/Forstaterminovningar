@@ -1,0 +1,15 @@
+C:\Users\danie\Documents\suvnet22\Forstaterminovningar\banksimulator\obj\Debug\net6.0\banksimulator.csproj.AssemblyReference.cache
+C:\Users\danie\Documents\suvnet22\Forstaterminovningar\banksimulator\obj\Debug\net6.0\banksimulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\Documents\suvnet22\Forstaterminovningar\banksimulator\obj\Debug\net6.0\banksimulator.AssemblyInfoInputs.cache
+C:\Users\danie\Documents\suvnet22\Forstaterminovningar\banksimulator\obj\Debug\net6.0\banksimulator.AssemblyInfo.cs
+C:\Users\danie\Documents\suvnet22\Forstaterminovningar\banksimulator\obj\Debug\net6.0\banksimulator.csproj.CoreCompileInputs.cache
+C:\Users\danie\Documents\suvnet22\Forstaterminovningar\banksimulator\bin\Debug\net6.0\banksimulator.exe
+C:\Users\danie\Documents\suvnet22\Forstaterminovningar\banksimulator\bin\Debug\net6.0\banksimulator.deps.json
+C:\Users\danie\Documents\suvnet22\Forstaterminovningar\banksimulator\bin\Debug\net6.0\banksimulator.runtimeconfig.json
+C:\Users\danie\Documents\suvnet22\Forstaterminovningar\banksimulator\bin\Debug\net6.0\banksimulator.dll
+C:\Users\danie\Documents\suvnet22\Forstaterminovningar\banksimulator\bin\Debug\net6.0\banksimulator.pdb
+C:\Users\danie\Documents\suvnet22\Forstaterminovningar\banksimulator\obj\Debug\net6.0\banksimulator.dll
+C:\Users\danie\Documents\suvnet22\Forstaterminovningar\banksimulator\obj\Debug\net6.0\refint\banksimulator.dll
+C:\Users\danie\Documents\suvnet22\Forstaterminovningar\banksimulator\obj\Debug\net6.0\banksimulator.pdb
+C:\Users\danie\Documents\suvnet22\Forstaterminovningar\banksimulator\obj\Debug\net6.0\banksimulator.genruntimeconfig.cache
+C:\Users\danie\Documents\suvnet22\Forstaterminovningar\banksimulator\obj\Debug\net6.0\ref\banksimulator.dll
